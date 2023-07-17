@@ -1,4 +1,4 @@
-Day 3 Task: Basic Linux Commands
+![image](https://github.com/rahulvthakur/90DaysOfDevOps/assets/90373035/4949eaac-2401-406c-b7ec-b994f1debfbe)Day 3 Task: Basic Linux Commands
 
 Task: What is the linux command to
 
@@ -16,3 +16,8 @@ Task: What is the linux command to
 
 
 Reference: https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/
+====================================================================================================
+Task for Day3 has been completed..
+
+![image](https://github.com/rahulvthakur/90DaysOfDevOps/assets/90373035/b5db3dff-12f3-4a5a-889c-b232437609a6)
+
