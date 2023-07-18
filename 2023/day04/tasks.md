@@ -27,3 +27,5 @@
  Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
 
  YouTube Vedio: [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)
+ ========================================================
+ Day4 task completed - > https://devrahul.hashnode.dev/day4-of-90daysofdevops-shell-scripting
