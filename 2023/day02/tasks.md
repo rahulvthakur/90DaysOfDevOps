@@ -11,3 +11,4 @@ Check the basic_linux_commands.md file on the same directory day2
 ==========================================================================
 
 Day2 task has been completed on AWS EC2 machine 
+https://devrahul.hashnode.dev/day2-of-90daysofdevops-linux-basics-an-introduction-for-beginners
