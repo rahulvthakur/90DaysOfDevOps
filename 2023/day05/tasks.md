@@ -53,3 +53,5 @@ A user is an entity, in a Linux operating system, that can manipulate files and 
 
  Post your daily work on Linkedin and le [me](https://www.linkedin.com/in/shubhamlondhe1996/) know , writing an article is the best :)
 
+============================================================================================================================================================
+Day 5 task completed and uploaded here - https://devrahul.hashnode.dev/day5-of-90daysofdevops-advanced-linux-shell-scripting-for-devops-with-user-management
