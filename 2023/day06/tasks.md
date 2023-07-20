@@ -26,3 +26,5 @@
 In case of any doubts, post it on [Discord Community](https://discord.gg/hs3Pmc5F)
 
 Happy Learning
+==============================================================================
+Day6 task completed and uploaded here - https://devrahul.hashnode.dev/day6-of-90daysofdevops-file-permissions-and-access-control-lists
