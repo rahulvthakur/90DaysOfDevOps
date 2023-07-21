@@ -42,4 +42,6 @@ For Reference, read [this](https://www.howtogeek.com/devops/how-to-check-if-the-
 
 
 #### Post about this and bring your friends to this #90DaysOfDevOps challenge.
+============================================================================================================================================================================================
+Day7 task is done and upoaded here https://devrahul.hashnode.dev/day-7-of-90daysofdevops-understanding-package-manager-and-systemctl
 
