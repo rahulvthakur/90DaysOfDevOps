@@ -47,3 +47,6 @@ git status command shows the files that have conflicts, git diff command shows t
 
 
 You can Post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challange. Happy Learning :)
+
+==================================
+day11 task done and updated here - https://hashnode.com/post/clkh5ctbw000j0al97y267knj
