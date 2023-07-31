@@ -28,3 +28,5 @@ For reference you can watch this video:
 https://youtu.be/Tevxhn6Odc8
 
 You can Post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challange. Happy Learning :)
+=======================================================================================================================================
+day16 task done - https://hashnode.com/post/clkpuajmc000309ma2mbf6fom
