@@ -25,3 +25,5 @@ gcp : compute engine
 
 Python Project for your practice:
 https://youtube.com/playlist?list=PLlfy9GnSVerSzFmQ8JqP9v0XHHOAeWbjo
+=================================================================================================================================
+day15 task done - https://hashnode.com/post/clknrwycl000009me43qoab4y
