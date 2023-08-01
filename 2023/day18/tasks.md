@@ -34,5 +34,7 @@ Learn how to use the docker-compose.yml file, to set up the environment, configu
 - Reboot the machine.
 
 For reference you can watch this [video](https://youtu.be/Tevxhn6Odc8)
+==============================================================================================================================
+day18 task done - https://hashnode.com/post/clksmhabf000009mj8mj1hjhv
 
 You can Post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challange. Happy Learning :)
