@@ -34,3 +34,5 @@ For Refference jenkins Freestyle Project visit [here](https://youtu.be/wwNWgG5ht
 You can Post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challange.
 
 Happy Learning:)
+-----------------------------------------------------------------
+day23 task completed and uploaded here - https://hashnode.com/post/clkzktm46000m0al13ci9dvwx
