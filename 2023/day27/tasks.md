@@ -57,3 +57,5 @@ Let me know how are feeling after 4 weeks of DevOps Learnings,
 
 
 Happy Learning:)
+=========================================================================================================================================
+Day27 task is completed and uploaded here  - https://hashnode.com/post/clmf1bqe300060al24ob80lna
